@@ -1,7 +1,11 @@
 bem vindo ao meu perfil
 
+estou desenvolvendo na liguagen javaScript
+
 me chamo gustavo pinheiro alves
 
 estou fazendo curso no alura
 
-e to usando o github para minha organizaçao
+utilizo esse espaço para a minha organizaçao
+
+[https://images.app.goo.gl/VXwSVi6gu6PwgVXu5]
